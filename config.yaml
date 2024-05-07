@@ -1,0 +1,16 @@
+
+path: ../datasets/label_train_dataset # dataset root dir
+train: images # train images (relative to 'path') 4 images
+val: images # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: Cocacola
+  1: Lech
+  2: zabka
+  3: oshee
+  4: tiger
+  5: jurajska
+  6: lipton
+  7: felix
+  8: pepsi
